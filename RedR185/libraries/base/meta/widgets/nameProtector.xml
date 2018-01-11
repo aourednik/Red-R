@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../help.xsl"?>
+<documentation>
+    <name>Create Valid Rows\Columns</name>
+    <icon>default.png</icon>
+    <tags> 
+        <tag>R</tag> 
+    </tags>
+    <screenshots></screenshots>
+    <summary>Make row and column names valid R names.</summary>
+    <details><p>R cannot handle row and column names that begin with numbers. This widget renames the row or column names that begin with numbers by adding and 'X' to the beginning.</p></details>
+    <relatedWidgets>
+        <inputWidget><!-- <package>:<widget> ie. base:apply, plotting:heatmap --></inputWidget>
+        <outputWidget><!-- <package>:<widget> ie. base:apply, plotting:heatmap --></outputWidget>
+    </relatedWidgets>
+    <signals>
+    <!-- [REQUIRED] List all the widget input output slots and their data type.-->
+        <input>
+            <signalClass>base:RDataFrame</signalClass>
+            <description></description>
+        </input>
+        <output>
+            <signalClass>base:RDataFrame</signalClass>
+            <description></description>
+        </output>
+    </signals>
+    <GUIElements>
+        <!-- [REQUIRED] A list of the parameters and how to use them.-->
+        <parameter>
+            <name>Protect the names in</name>
+            <description>check row and/or column to convert to valid names.</description>
+        </parameter>
+        <parameter>
+            <name>Column names to protect</name>
+            <description>[[[MISSING]]]]</description>
+        </parameter>
+    </GUIElements>
+    <RFunctions>
+    <!-- [REQUIRED] R functions used in this widget.-->
+        <function>base:make.names</function>
+    </RFunctions>
+    <citation>
+    <!-- [REQUIRED] -->
+        <author>
+            <name>Red-R Core Team</name>
+            <contact>http://www.red-r.org/contact</contact>
+        </author>
+        <reference>http://www.red-r.org</reference>
+    </citation>
+</documentation>

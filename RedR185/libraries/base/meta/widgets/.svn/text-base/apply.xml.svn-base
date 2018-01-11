@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../help.xsl"?>
+<documentation>
+    <name>Apply</name>
+    <icon>default.png</icon>
+    <tags> 
+        <tag>Data Manipulation</tag> 
+    </tags>
+    <screenshots></screenshots>
+    <summary>Apply a function across an matrix or array.</summary>
+    <details><p>
+The apply function takes an array (an n-dimentional rectangular datasets) as an input object and applies the function specified either by the 'Select Function' box or any arbitrary function in the 'Function' box.  Any additional parameters to the function can be input in the 'Additional Parameters' line.  
+
+    </p>
+    <p>
+Users can use either the 'To' box or the 'Array Index' box to specify the index on which the function will be applied.
+    </p>
+    <p>
+The result is an (n-1)-dimentional array containing the results of the function applied across the array.
+
+For example:<br />
+Apply the function max across the following array, with index 1 (Rows).<br /><br />
+    [[1, 2, 3]
+     [4, 5, 6]
+     [7, 8, 9]]<br /><br />
+Results in this vector.<br /><br />
+    [3, 6, 9]<br /><br />
+While applied across the columns would result in: [7, 8, 9].
+    </p></details>
+    <relatedWidgets>
+        <inputWidget><!-- <package>:<widget> ie. base:apply, plotting:heatmap --></inputWidget>
+        <outputWidget><!-- <package>:<widget> ie. base:apply, plotting:heatmap --></outputWidget>
+    </relatedWidgets>
+    <signals>
+    <!-- [REQUIRED] List all the widget input output slots and their data type.-->
+        <input>
+            <signalClass>base:RMatrix</signalClass>
+            <description><!-- signal description --></description>
+        </input>
+        <output>
+            <signalClass>base:RDataFrame</signalClass>
+            <description><!-- signal description --></description>
+        </output>
+    </signals>
+    <GUIElements>
+        <!-- [REQUIRED] A list of the parameters and how to use them.-->
+    </GUIElements>
+    <RFunctions>
+    <!-- [REQUIRED] R functions used in this widget.-->
+        <function>base:apply</function>
+    </RFunctions>
+    <citation>
+    <!-- [REQUIRED] -->
+        <author>
+            <name>Red-R Core Team</name>
+            <contact>http://www.red-r.org/contact</contact>
+        </author>
+        <reference>http://www.red-r.org</reference>
+    </citation>
+</documentation>

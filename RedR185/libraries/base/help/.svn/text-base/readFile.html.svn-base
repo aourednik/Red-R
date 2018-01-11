@@ -1,0 +1,38 @@
+<h1>Read File</h1>
+<h2>Brief</h2>
+<p>Read data files into Red-R. </p>
+<h2>Details</h2> 
+<p>This widget will read data from tab, comma, or space delimited text files. On Microsoft Windows it will also ready Excel files. Click the browse button to search your computer for the file to read. Select how the columns are delimited. On data read or change in these options, the first few lines of the file will be scanned. R will try to automaticlly determine the type of the column. The column data types can be changed. Once the data, column and row header information is properly selected click Load Data to read the full file into Red-R and send forward. </p>
+<h2>Inputs</h2>
+<ul>
+    <li>None</li>
+</ul>
+
+<h2>Outputs</h2>
+<ul>
+    <li>base.RDataFrame</li>
+
+</ul>
+
+<h2>Parameters</h2>
+<p>
+<ul>
+<li>Browse: Opens a a file browse menu. A list of recently opened files is presented in the dropdown menu. If you are opening a saved session from another computer, or if the original file has been moved/deleted the dropdown menu will show a File not found notice. In case of saved sessions, even though the file does not exist on your computer all the data is saved in Red-R and can still be accessed. </li>
+<li>Text or Excel: Select what type of file you are reading. Excel files can only be read on Windows machines.</li>
+<li>tab, space, comma: How are the columns seperated. Use the blank field to enter any other character. </li>
+
+</p>
+
+<h2>R Functions</h2>
+<!-- [REQUIRED] R functions used in this widget.-->
+<ul>
+    <li>base:read.table</li>
+</ul>
+    
+<h2>Citation</h2>
+    <h4>Author</h4><!-- [REQUIRED] -->
+    Red-R Development Team (http://www.red-r.org)
+    <h4>Contact</h4> <!-- [REQUIRED] -->
+    Red-R Development Team (http://www.red-r.org)
+    <h4>References</h4> <!-- [OPTIONAL] -->   
+    http://www.red-r.org

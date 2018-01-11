@@ -1,0 +1,54 @@
+<h4>eigen(base) R Documentation<h4> 
+</br>
+Spectral Decomposition of a Matrix
+</br>Description</br>
+Computes eigenvalues and eigenvectors of real or complex matrices. 
+</br></br>
+Usage</br>
+eigen(x, symmetric, only.values = FALSE, EISPACK = FALSE)
+</br></br>
+Arguments</br>
+</br>x a matrix whose spectral decomposition is to be computed. 
+</br>symmetric if TRUE, the matrix is assumed to be symmetric (or Hermitian if complex) and only its lower triangle (diagonal included) is used. If symmetric is not specified, the matrix is inspected for symmetry. 
+only.values if TRUE, only the eigenvalues are computed and returned, otherwise both eigenvalues and eigenvectors are returned. 
+</br>EISPACK logical. Should EISPACK be used (for compatibility with R < 1.7.0)? 
+</br></br>
+Details</br>
+By default eigen uses the LAPACK routines DSYEVR, DGEEV, ZHEEV and ZGEEV whereas eigen(EISPACK=TRUE) provides an interface to the EISPACK routines RS, RG, CH and CG. 
+</br></br>
+If symmetric is unspecified, the code attempts to determine if the matrix is symmetric up to plausible numerical inaccuracies. It is faster and surer to set the value yourself. 
+</br></br>
+eigen is preferred to eigen(EISPACK = TRUE) for new projects, but its eigenvectors may differ in sign and (in the asymmetric case) in normalization. (They may also differ between methods and between platforms.) 
+</br></br>
+Computing the eigenvectors is the slow part for large matrices. 
+</br></br>
+Computing the eigendecomposition of a matrix is subject to errors on a real-world computer: the definitive analysis is Wilkinson (1965). All you can hope for is a solution to a problem suitably close to x. So even though a real asymmetric x may have an algebraic solution with repeated real eigenvalues, the computed solution may be of a similar matrix with complex conjugate pairs of eigenvalues.</br> 
+</br></br>
+Value</br>
+The spectral decomposition of x is returned as components of a list with components 
+</br>
+values a vector containing the p eigenvalues of x, sorted in decreasing order, according to Mod(values) in the asymmetric case when they might be complex (even for real matrices). For real asymmetric matrices the vector will be complex only if complex conjugate pairs of eigenvalues are detected.  
+</br>vectors either a p * p matrix whose columns contain the eigenvectors of x, or NULL if only.values is TRUE. 
+</br>For eigen(, symmetric = FALSE, EISPACK =TRUE) the choice of length of the eigenvectors is not defined by EISPACK. In all other cases the vectors are normalized to unit length. 
+</br>Recall that the eigenvectors are only defined up to a constant: even when the length is specified they are still only defined up to a scalar of modulus one (the sign for real matrices).  
+</br></br>
+References</br>
+Becker, R. A., Chambers, J. M. and Wilks, A. R. (1988) The New S Language. Wadsworth & Brooks/Cole. 
+</br></br>
+Smith, B. T, Boyle, J. M., Dongarra, J. J., Garbow, B. S., Ikebe,Y., Klema, V., and Moler, C. B. (1976). Matrix Eigensystems Routines – EISPACK Guide. Springer-Verlag Lecture Notes in Computer Science. 
+</br></br>
+Anderson. E. and ten others (1999) LAPACK Users' Guide. Third Edition. SIAM.
+Available on-line at http://www.netlib.org/lapack/lug/lapack_lug.html. 
+</br></br>
+Wilkinson, J. H. (1965) The Algebraic Eigenvalue Problem. Clarendon Press, Oxford. 
+</br>
+See Also</br>
+svd, a generalization of eigen; qr, and chol for related decompositions. 
+</br></br>
+To compute the determinant of a matrix, the qr decomposition is much more efficient: det. 
+</br></br>
+--------------------------------------------------------------------------------
+</br></br>
+[Package base version 2.9.1 Index]
+</br></br>
+<h4>Widget Author Kyle R Covington kyle@red-r.org</h4>

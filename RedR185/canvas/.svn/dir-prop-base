@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 50
+*.RData
+urllib2_file.pyc
+dir_conflicts.prej
+*.pyc
+
+END

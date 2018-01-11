@@ -1,0 +1,9 @@
+
+<html>
+<head>
+    <title>Row or Column Selection</title>
+</head>
+<body>
+<strong>Introduction</strong><br><br>Subsets a data.frame object to pass to subsequent widgets.  This widget subsets on row or column name.<br><br><strong>Details</strong><br><br>It is often nessisary to subset data tables and to reduce tables down to essential subsets, particularly if one wishes to perform opperations on an entire table (such as with the Apply Math widget).  This widget passes forward only those rows or columns that match the selection specifications.<br><br>Names can be selected to either match 'IS' or not match 'IS NOT'.  Multiple names can be selected from the names list either by clicking or by selecting using the hint box to the right.<br><br>If the widget is also connected to an RVector of names those can be used as the selection criteria.  One should note that connecting an RVector with no name match will return a blank data table that will be essentially useless to you.  Names from the RVector must match exactly.<br><br>Once subsetting is performed a sample of the data will be shown in the text edit box to the bottom.  This data will also be passed forward out of the RDataFrame slot.<br><br>If a class manager exists classifications by rownames will be added to the class manager.  This can be used for further classification or manipulation using class manager based widgets.
+</body>
+</html>

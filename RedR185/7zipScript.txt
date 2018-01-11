@@ -1,0 +1,12 @@
+7z a -tzip -xr\!*.svn* -xr\!*.pyc -xr\!*.pyo C:\Python26\Lib\site-packages\redR1.5\libraries\survival\survival.rrp C:\Python26\Lib\site-packages\redR1.5\libraries\survival\*
+
+affy
+doseResponse
+maptools
+NeuralNet
+pls
+RedRLME4
+RedRmatplotlib
+ROCCurves
+rsqlitedataframe
+survival

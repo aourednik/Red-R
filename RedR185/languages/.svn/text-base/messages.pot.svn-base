@@ -1,0 +1,1878 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2011-01-16 13:47+Central Standard Time\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\OWColorPalette.py:94
+msgid "Question"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\OWColorPalette.py:94
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:33
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:34
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redROutput.py:144
+msgid "Yes"
+msgstr "\x0921\x0940"
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\OWColorPalette.py:94
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:33
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redROutput.py:145
+msgid "No"
+msgstr "\x0933\x0920\x0940"
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\OWGUI.py:27
+msgid "'%s' has no attribute '%s'"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\OWReport.py:24
+msgid "Report"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\OWReport.py:58
+msgid ""
+"Your version of Orange supports creating reports, but it needs to download the Ext library (~330 kB) for JavaScript. Proceed?\n"
+"\n"
+"If you answer no, it will ask again next time you run Orange; sorry for the inconvenience ;)"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\OWReport.py:58
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\OWReport.py:73
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\OWReport.py:84
+msgid "Additional library download"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\OWReport.py:73
+msgid "Error downloading Ext. Reporting will not be available"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\OWReport.py:84
+msgid "Error unzipping Ext. Reporting will not be available"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\OWRpy.py:107
+msgid "R Error: "
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\OWRpy.py:107
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\OWRpy.py:135
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:341
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:620
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:621
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngView.py:97
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngView.py:108
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngView.py:144
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngView.py:342
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngView.py:358
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:303
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:530
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:827
+msgid "Red-R Canvas"
+msgstr "\x0932\x0932, \x0972 \x0914\x0961\0960"
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\OWRpy.py:135
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\OWRpy.py:137
+msgid "Object was not assigned correctly in R, please tell package manager."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\OWRpy.py:139
+msgid " to "
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\OWRpy.py:139
+msgid "Assign "
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\RSession.py:45
+msgid "Assigned object to %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\RSession.py:53
+msgid "R Session Locked"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\RSession.py:53
+msgid "The R Session is currently locked, please wait for the prior execution to finish."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\RSession.py:82
+msgid ""
+"Error occured in the R session.\n"
+"The orriginal query was %s.\n"
+"The error is %s."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\RSession.py:99
+msgid "WantType not specified"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\RSession.py:118
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\RSession.py:138
+msgid "Warning, conversion was not of a known type;"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\RSession.py:187
+msgid "Library already loaded"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\RSession.py:198
+msgid "Download R Library"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\RSession.py:198
+msgid ""
+"You are missing some key files for this widget.\n"
+"\n"
+"%s\n"
+"\n"
+"Would you like to download it?"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\RSession.py:201
+msgid "Installing library %s."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\RSession.py:208
+msgid "Library load failed"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\lorngSignalManager.py:209
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngSignalManager.py:213
+msgid "Connect Signals"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\lorngSignalManager.py:273
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngSignalManager.py:277
+msgid "None sent as signal type"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\lorngSignalManager.py:477
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngSignalManager.py:481
+msgid "adding link"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\lorngTabs.py:307
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngTabs.py:310
+msgid "Favorites"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\lorngTabs.py:524
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngTabs.py:527
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRWidgetsTree.py:218
+msgid "Suggested Widgets"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\lorngTabs.py:882
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:772
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc2.py:762
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:773
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngTabs.py:885
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:459
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:605
+msgid "Search"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngCanvasItems.py:354
+msgid "Suggested Widgets for %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:62
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs_prel.py:61
+msgid "Preferences"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:64
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs_prel.py:63
+msgid "Canvas Options"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:84
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:241
+msgid "R Settings"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:90
+msgid "General Options"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:92
+msgid "Email Address:"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:99
+msgid "Don't ask to save schema before closing"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:107
+msgid "Look and Feel Options"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:110
+msgid "Snap widgets to grid"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:112
+msgid "Show signal names between widgets"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:114
+msgid "Save size and position of widgets"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:119
+msgid "Scheme icon size:"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:119
+msgid "Set the size of the widget icons on the scheme"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:125
+msgid "Widget Tree Icon size:"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:126
+msgid "Set the size of the widget icons in the toolbar, tool box, and tree view area"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:143
+msgid "Window style:"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:145
+msgid "Use style's standard palette"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:147
+msgid "Language"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:173
+msgid "Debug"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:177
+msgid "Set level of widget output: "
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:179
+msgid "Display Traceback"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:184
+msgid "Exceptions"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:186
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:41
+msgid "Show output window on exception"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:188
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:42
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:47
+msgid "Submit Error Report"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:189
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:42
+msgid "Always ask before submitting error report"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:191
+msgid "Log File"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:194
+msgid "Save content of the Output window to a log file"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:197
+msgid "Log File:"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:198
+msgid "Browse"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:199
+msgid "Show Log File"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:209
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:54
+msgid "R Libraries"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:217
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:445
+msgid "OK"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:218
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:446
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:687
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:720
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:763
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc2.py:680
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc2.py:711
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc2.py:753
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:688
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:721
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:764
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:911
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRUpdateManager.py:108
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRUpdateManager.py:151
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\widgetSession.py:200
+msgid "Cancel"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:231
+msgid "Save Log File"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:249
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:60
+msgid "Mirrors"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:326
+msgid "Select the folder that contains the add-on:"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:336
+msgid "Information"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:336
+msgid "The specified folder does not seem to contain a Red-R add-on."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:341
+msgid ""
+"Unregister widget category '%s' from Red-R canvas?\n"
+"This will not remove any files."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:373
+msgid "'%(pressed)s' is already assigned to '%(assigned)s'. Override?"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:373
+msgid "Confirmation"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:389
+msgid "Widget Shortcuts"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:463
+msgid "About Info"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDlgs.py:467
+msgid "Licence"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:63
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:141
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc2.py:58
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc2.py:136
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:64
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:142
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRObjects.py:24
+msgid "General"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:106
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:107
+msgid "Make a new tab called %s."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:113
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:114
+msgid ""
+"Are you sure that you want to remove the tab?\n"
+"\n"
+"Any widgets that have not been cloned will be lost."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:113
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:114
+msgid "Remove Tab"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:122
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:123
+msgid ""
+"Are you sure that you want to remove the current tab?\n"
+"\n"
+"Any widgets that have not been cloned will be lost."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:122
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:123
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:108
+msgid "Remove Current Tab"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:152
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc2.py:147
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:153
+msgid "Same Widget"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:162
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:172
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:163
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:173
+msgid "Failed to Connect"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:162
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:163
+msgid ""
+"Connection Not Possible\n"
+"\n"
+"Would you like to search for templates\n"
+"with these widgets?"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:172
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:173
+msgid ""
+"Not valid connection.\n"
+"Would you like to force this connection anyway?\n"
+"\n"
+"THIS MIGHT CAUSE ERRORS AND EVEN CRASH RED-R!!!"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:194
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:195
+msgid "Possible Connections are %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:207
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:208
+msgid "Add connection between %s and %s."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:321
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:322
+msgid "No tempWidgets to clone!!!"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:331
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:351
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc2.py:326
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc2.py:346
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:332
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:352
+msgid " (Clone)"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:331
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:332
+msgid "Create a clone widget %s in tab %s."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:408
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:409
+msgid "Create new widget named %s."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:480
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:481
+msgid "Bad widget supplied %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:488
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:489
+msgid "Error in removing lines %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:491
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:492
+msgid "trying to remove widget icon %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:495
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:496
+msgid "Error in removing widget icon %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:497
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc2.py:492
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:498
+msgid "Removing Widget"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:530
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc2.py:525
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:531
+msgid "Loading dummy step 1a"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:534
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc2.py:529
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:535
+msgid "Loading exception occured for widget "
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:566
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:567
+msgid "Error. Attempted to Access Invalid widget instance : "
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:593
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:594
+msgid "Setting line %s noData slot to %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:621
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:622
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:828
+msgid "Widget ID is a duplicate, I can't load this!!!"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:663
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:697
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc2.py:656
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc2.py:688
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:664
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:698
+msgid "New Tab"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:671
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:672
+msgid "Select the Destination for the Clone."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:686
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:719
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:762
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc2.py:679
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc2.py:710
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc2.py:752
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:687
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:720
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:763
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:910
+msgid "Accept"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:705
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc2.py:696
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:706
+msgid "New Tab Name"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:730
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc2.py:720
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:731
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:878
+msgid "Save as template"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:739
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:740
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:887
+msgid "Set tags as comma ( , ) delimited list"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:746
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:747
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:894
+msgid "Tags:"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:754
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:755
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:902
+msgid "Description:"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc.py:937
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngDoc_prel.py:938
+msgid "Exception in Tabs with widgetRegistry %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngHelp.py:12
+msgid "Red-R Canvas Help"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngRegistry.py:37
+msgid "Loading repository of packages."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngRegistry.py:93
+msgid "Finished loading repository of packages."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngRegistry.py:156
+msgid "<b>Meta file for %s does not exist.</b>"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngRegistry.py:161
+msgid "<b>Error loading meta data for %s; %s</b>"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngRegistry.py:208
+msgid "Exception occurred in <b>%s: %s<b>"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngView.py:31
+msgid "Link"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngView.py:32
+msgid "Enabled"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngView.py:35
+msgid "Reset Signals"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngView.py:36
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:147
+msgid "Remove"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngView.py:92
+msgid "Enter new name for the '%s' widget:"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngView.py:92
+msgid "Rename Widget"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngView.py:97
+msgid "Unable to rename widget. An instance with that name already exists."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngView.py:105
+msgid "Are you sure you want to remove selected widget(s)?  This will remove the downstream data."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngView.py:105
+msgid "Red-R Canvas Remove Widget"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngView.py:108
+msgid "Unable to remove widgets while signal processing is in progress. Please wait."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngView.py:144
+msgid "Unable to remove connection while signal processing is in progress. Please wait."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngView.py:239
+msgid "Active item %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngView.py:342
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngView.py:358
+msgid "Unable to connect widgets while signal processing is in progress. Please wait."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngView.py:391
+msgid "Orange Canvas"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\orngView.py:391
+msgid "Please wait until Orange finishes processing signals."
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:28
+msgid "Open schema"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:37
+msgid "Show All Widget Windows"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:39
+msgid "Close All Widget Windows"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:43
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:74
+msgid "Generate Report"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:47
+msgid "Check for Updates"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:51
+msgid "Reload Widgets"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:54
+msgid "Red-R Options"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:65
+msgid "Search  "
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:74
+msgid "Recent Pipelines"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:76
+msgid "&File"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:77
+msgid "New Pipeline"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:78
+msgid "&Open..."
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:80
+msgid "Import Pipeline"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:82
+msgid "Reload Last Pipeline"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:85
+msgid "&Save"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:86
+msgid "Save &As..."
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:87
+msgid "Save As Template"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:90
+msgid "Generate &Report"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:94
+msgid "E&xit"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:96
+msgid "&Options"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:99
+msgid "Select All Widgets"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:102
+msgid "Show Output Window"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:103
+msgid "Clear Output Window"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:104
+msgid "Save Output Text..."
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:106
+msgid "&Tabs"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:107
+msgid "Add New Tab"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:117
+msgid "&Delete Widget Settings"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:121
+msgid "&Packages"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:122
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:268
+msgid "Package Manager"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:123
+msgid "&Install Package"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:129
+msgid "Red-R Help"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:130
+msgid "Red Canvas Help"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:132
+msgid "Red-R Online Help"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:137
+msgid "Check for updates"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:140
+msgid "About Red-R"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:143
+msgid "Widget"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:144
+msgid "Open"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:146
+msgid "&Rename"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:149
+msgid "Clone To Tab"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:150
+msgid "Duplicate To Tab"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:180
+msgid "Import File"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:191
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:204
+msgid "Open File"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:260
+msgid "Error in printing the schema"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:327
+msgid "Create New Pipeline"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:327
+msgid ""
+"Creating a new pipeline will delete all existing work.\n"
+"\n"
+"Are you sure you want to continue?"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:355
+msgid "Save Output To File"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:387
+msgid ""
+"If you want to delete widget settings press Ok, otherwise press Cancel.\n"
+"For the deletion to be complete there cannot be any widgets on your schema.\n"
+"If there are, clear the schema first."
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:387
+msgid "Red Canvas"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:401
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:405
+msgid "redRDir"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRCanvasToolbar.py:551
+msgid "invalid index"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redREnviron.py:52
+msgid "Error occured in setting the settingsDir"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRExceptionHandling.py:19
+msgid "Unhandled exception of type %s occured at %s:<br>Traceback:<br>"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRGUI.py:37
+msgid "#########widget Name is required############"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRHistory.py:20
+msgid "widgetHistory not found"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRHistory.py:45
+msgid "The widget use history is corrept. Please delete it."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRHistory.py:68
+msgid "recent"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:25
+msgid "Red-R Setup"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:29
+msgid "Please Register Red-R"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:30
+msgid "Registration will help us track errors to make Red-R better."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:32
+msgid "Email Address (Optional):"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:33
+msgid "Red-R can contact me to ask about errors:"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:38
+msgid "Error Reporting"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:39
+msgid "How would you like errors to be reported to Red-R."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:41
+msgid "Print last exception in status bar"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:43
+msgid "Check this if you want to see the output when an error happens."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:44
+msgid "Check this if you want the last exception printed in the status bar."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:45
+msgid ""
+"Check this if you want to send errors to Red-R.\n"
+"We will only show the errors to Red-R or package maintainers."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:46
+msgid ""
+"Check this if you want to be asked before a report is sent to Red-R.\n"
+"Otherwise a report will be sent automatically to Red-R."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:52
+msgid "R Repository"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:53
+msgid "Please set the repository closest to you.  This will help you get R packages faster."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:55
+msgid "Repository URL: "
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:59
+msgid "Get Libraries"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:65
+msgid "Finish"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:66
+msgid ""
+"Thanks for setting up Red-R.\n"
+"\n"
+"If you want to start an example schema to help you get started then check the \"Start Example\" box."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:67
+msgid "Show Example"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRInitWizard.py:77
+msgid "No Internet Connection, please try again"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRObjects.py:141
+msgid "Widget %s not found in %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRObjects.py:201
+msgid "widget icon values %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRObjects.py:203
+msgid "removing widget icon instance %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRObjects.py:220
+msgid "adding instance number %s name %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRObjects.py:245
+msgid "redRObjects addInstance; error in setting settings or custom settings. <b>%s<b>"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRObjects.py:256
+msgid "setting custom widget ID %s, We must be loading"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRObjects.py:262
+msgid "instance ID is %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRObjects.py:264
+msgid "id was found in the keys, placing as new ID"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRObjects.py:266
+msgid "Warning: widget id already in the keys, setting new widget instance"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRObjects.py:272
+msgid "Error in loading widget %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRObjects.py:282
+msgid "Error in locating widget %s, available widget ID's are %s, %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRObjects.py:291
+msgid "Widget instances are %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRObjects.py:305
+msgid "Removing widget instance %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRObjects.py:379
+msgid "found in widget %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRObjects.py:382
+msgid "found out widget %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRObjects.py:385
+msgid "the matching line is %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRObjects.py:394
+msgid "Removing Line"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRObjects.py:416
+msgid "Removing obsolete signals %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redROutput.py:122
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redROutput.py:147
+msgid "Remember my Response"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:75
+msgid "Installing Packages"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:76
+msgid "Installing Packages ..."
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:87
+msgid "Installing: %s"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:96
+msgid "Installing package %(PACKAGENAME)s from URL %(URL)s into path %(PATH)s"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:196
+msgid "Updating packages from repository"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:277
+msgid "Updates"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:278
+msgid "Installed Packages"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:279
+msgid "Available Packages"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:282
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:292
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:301
+msgid "Update List"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:284
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:294
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:303
+msgid "Author"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:284
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:294
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:303
+msgid "Package"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:284
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:294
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:303
+msgid "Summary"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:285
+msgid "Current Version"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:285
+msgid "Current Version Stability"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:285
+msgid "New Version"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:285
+msgid "New Version Stability"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:289
+msgid "Update Info"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:290
+msgid "Install Updates"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:294
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:303
+msgid "Stability"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:294
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:303
+msgid "Version"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:298
+msgid "Install Info"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:299
+msgid "Remove Packages"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:307
+msgid "Avaliable Info"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:308
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:454
+msgid "Install Packages"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:312
+msgid "Update from Repository"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:315
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:290
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRUpdateManager.py:122
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRUpdateManager.py:134
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\widgetSession.py:199
+msgid "Done"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:416
+msgid "Deleting Base"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:416
+msgid "You are not allowed to delete base."
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:421
+msgid ""
+"Are you sure that you want to uninstall these packages?\n"
+"\n"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:421
+msgid "Uninstall Packages"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:450
+msgid ""
+"\n"
+"Repository: Red-R.org\n"
+"Packages:\n"
+"-- "
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:452
+msgid ""
+"\n"
+" With dependencies:\n"
+"-- "
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:476
+msgid "Are you sure that you want to install these packages?"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:485
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:504
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:514
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:528
+msgid "Install Package"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:505
+msgid ""
+"The following packages are required but not found in the Red-R.org repository. Installation will not proceed.\n"
+"\n"
+"--"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:510
+msgid ""
+"Are you sure that you want to install this package and its dependencies?\n"
+"Repository: Red-R.org\n"
+"Package:\n"
+"--"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:512
+msgid ""
+"\n"
+" With dependencies:\n"
+"--"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRPackageManager.py:529
+msgid ""
+"The following error occurred during the installation of your package.\n"
+"Please contact the package maintainer to report this error.\n"
+"\n"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:42
+msgid "See Below"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:79
+msgid "Create A Report"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:80
+msgid "Select the widgets to include in this report."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:87
+msgid "Widget List"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:88
+msgid "Element"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:88
+msgid "Parameters"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:93
+msgid "Expand/Collapse"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:170
+msgid "Word Limit"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:177
+msgid "Table Row Limit"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:218
+msgid "widget name"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:224
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRWidgetGUI.py:119
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRWidgetGUI.py:138
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRWidgetGUI.py:197
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRWidgetGUI.py:290
+msgid "Notes"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:243
+msgid "Write Report to File"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:285
+msgid "Report Generated"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:286
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:303
+msgid "Your report is ready to view."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:288
+msgid "View Report"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:296
+msgid "Cannot Open File"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:297
+msgid ""
+"Red-R cannot open the reports file. Please open the file manually.\n"
+"This is not a problem with Red-R, it is a problem with your document viewer."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:314
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:315
+msgid "Gathering Report"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:321
+msgid "Gathering Report Data from %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:334
+msgid "deleting data"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:338
+msgid "done deleting data"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:408
+msgid "No notes were entered in the widget."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:445
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:451
+msgid "Value"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:446
+msgid "Main Parameters"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:451
+msgid "Parameter"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRReports.py:504
+msgid "Error in saving schema"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:88
+msgid "save in orngDoc "
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:113
+msgid ""
+"No widgets are selected.\n"
+"Templates require widgets to be selected before saving as template."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:113
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:218
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:832
+msgid "Save Template"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:121
+msgid "orngDoc in makeTemplate; no filename specified, this is highly irregular!! Exiting from template save."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:129
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:130
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:243
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:244
+msgid "Saving "
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:208
+msgid "Collecting Icons"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:210
+msgid "Selected widgets are %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:214
+msgid "Making a copy with widgets %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:360
+msgid ""
+"Loading required R Packages. If not found they will be downloaded.\n"
+" This may take a while..."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:377
+msgid "The following packages need to be installed before the session can be loaded."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:379
+msgid "redRSaveLoad loadRequiredPackages; error loading package %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:389
+msgid "Loading Document %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:402
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:520
+msgid "Cannot load file with extension %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:406
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:407
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:524
+msgid "Loading %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:419
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:546
+msgid "Loading Schema Data, please wait"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:434
+msgid "Version Tag Missing, using Red-R 1.80 loading specifications"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:440
+msgid "The version is:%s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:442
+msgid "Error in loading the schema %s, reverting to load with 1.80 settings"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:461
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:572
+msgid "Duplicated widgets were detected between this schema and the active one.  Loading is not possible."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:461
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:572
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:594
+msgid "Schema Loading Failed"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:466
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:577
+msgid "Loading Widgets"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:479
+msgid "Setting Signals"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:481
+msgid "Setting Signals for %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:486
+msgid "Error setting signals %s, Settings are %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:519
+msgid "Red-R Error"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:525
+msgid "Loading "
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:531
+msgid "Unable to locate file \"%s\""
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:584
+msgid "Loading Lines"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:594
+msgid "The following errors occured while loading the schema: <br><br>"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:626
+msgid "loading widgeticon %(NAME)s, %(INSTANCE)s, %(CAPTION)s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:629
+msgid "Loading exception occured for %s, %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:709
+msgid "Settings template ID to these values"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:717
+msgid "<nobr>Failed to create a signal line between widgets <b>%s</b> and <b>%s</b></nobr><br>"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:766
+msgid "Widget load failure 180"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSaveLoad.py:813
+msgid "Save File"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSignalManager.py:26
+msgid "Trying to connect signal and process."
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSignalManager.py:28
+msgid "Signal Manager connectSignal: id not in output keys"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSignalManager.py:31
+msgid "Signal Manager connectSignal: no signal or signal is None"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSignalManager.py:42
+msgid "redRSignalManager connectSignal: error in connecting signal %s"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSignalManager.py:59
+msgid "Removing signal %s, %s"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSignalManager.py:250
+msgid "New Data Received"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSignalManager.py:254
+msgid ""
+"Error occured in processing signal in this widget.\n"
+"Please check the widgets.\n"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSignalManager.py:258
+msgid "Error in processing signal"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRSignalManager.py:314
+msgid "Propagating None through signal"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRUpdateManager.py:53
+msgid "No Internet Connection"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRUpdateManager.py:66
+msgid "<h2>Red-R %s</h2><h4>Revision:%s; Date: %s</h4><br>%s"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRUpdateManager.py:71
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRUpdateManager.py:117
+msgid "You have the most current version of Red-R %s."
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRUpdateManager.py:97
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRUpdateManager.py:113
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRUpdateManager.py:125
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRUpdateManager.py:137
+msgid "Update Manager"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRUpdateManager.py:99
+msgid "Update"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRUpdateManager.py:107
+msgid "Close Red-R and Update"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRUpdateManager.py:129
+msgid "No Internet Connection."
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRUpdateManager.py:142
+msgid "<h2>Red-R %s</h2><h4>Revision:%s; Date: %s</h4>"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRUpdateManager.py:200
+msgid "Error"
+msgstr ""
+
+#:
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRUpdateManager.py:200
+msgid "There was an Error in updating Red-R."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRWidgetGUI.py:45
+msgid "Generic Red-R Widget"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRWidgetGUI.py:148
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRWidgetGUI.py:166
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRWidgetGUI.py:295
+msgid "R Output"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRWidgetGUI.py:163
+msgid "R code executed in this widget:"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRWidgetGUI.py:170
+msgid "Run Selected Code"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRWidgetGUI.py:170
+msgid "You may select any code to execute in the R session.  This will override anything that other widgets have done to this point and will be overriden when this widget executes again.  Use this with great caution."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRWidgetGUI.py:201
+msgid "R Code"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRWidgetGUI.py:206
+msgid "Print"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRWidgetGUI.py:211
+msgid "Help"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRWidgetGUI.py:216
+msgid "Include In Report"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRWidgetGUI.py:231
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRWidgetGUI.py:240
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRWidgetGUI.py:301
+msgid "Advanced Options"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRWidgetGUI.py:262
+msgid "R is currently running. Please wait..."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRWidgetGUI.py:265
+msgid "R is idle."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRWidgetGUI.py:288
+msgid " Notes"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRWidgetGUI.py:293
+msgid " R Output"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\redRWidgetGUI.py:299
+msgid " Advanced Options"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\repGen.py:7
+msgid ""
+"The following plot was generated:\n"
+"\n"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\repGen.py:30
+msgid "Table"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\signals.py:79
+msgid "Deleting signal"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\signals.py:80
+msgid "Signal Prosess"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\widgetSession.py:28
+msgid "moving to save %s"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\widgetSession.py:95
+msgid "Type %s is not supported at the moment"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\widgetSession.py:154
+msgid "Loading settings"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\widgetSession.py:195
+msgid ""
+"Error occured in matching the loaded signal (Name:%s, Value:%s) to the appropriate signal name.\n"
+"Please select the signal that matches the desired output,\n"
+" or press cancel to abandon the signal."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\widgetSession.py:228
+msgid "Exception occured during loading in the setting of an attribute.  This will not halt loading but the widget maker shoudl be made aware of this."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\widgetSignals.py:48
+msgid "Warning! Signal '%s' is not a valid signal name for the '%s' widget. Please fix the signal name."
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\widgetSignals.py:49
+msgid "Signal name mismatch"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\widgetSignals.py:58
+msgid ""
+"\n"
+"##Data sent through the %s channel\n"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\widgetSignals.py:86
+msgid "Failed to send data"
+msgstr ""
+
+#: C:\Python26\Lib\site-packages\RedRWorkingTrunk\canvas\widgetSignals.py:91
+msgid "Data sent from slot %s"
+msgstr ""
+

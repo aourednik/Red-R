@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../help.xsl"?>
+<documentation>
+    <name><!-- [REQUIRED] title --></name>
+    <icon></icon>
+    <tags>
+        <tag></tag>
+    </tags>
+    <summary><!-- [REQUIRED] A Brief description of the widget and what it does--></summary>
+    <details></details>
+    <relatedWidgets>
+        <inputWidget><!-- <package>.<widget> ie. base.apply, plotting.heatmap --></inputWidget>
+    </relatedWidgets>
+    <signals>
+    <!-- [REQUIRED] List all the widget input output slots and their data type.-->
+        <input>
+            <signalClass><!-- base.RDataFrame --></signalClass>
+            <description><!-- signal description --></description>
+        </input>
+        <input>
+            <signalClass></signalClass>
+            <description></description>
+        </input>
+        <output>
+            <signalClass></signalClass>
+            <description></description>
+        </output>
+    </signals>
+    <GUIElements>
+        <!-- [REQUIRED] A list of the parameters and how to use them.-->
+        <parameter>
+            <name></name>
+            <description></description>
+        </parameter>
+        <!-- [REQUIRED] A list of the GUI elements that output data and a description of what they output.-->
+        <display>
+            <name></name>
+            <description></description>
+        </display>
+    </GUIElements>
+    <RFunctions>
+    <!-- [REQUIRED] R functions used in this widget.-->
+        <function><!-- In format <package>:<function>. i.e. stats:cor, base:apply--></function>
+        <function></function>
+    </RFunctions>
+    <citation>
+    <!-- [REQUIRED] -->
+        <author>
+            <name></name>
+            <contact></contact>
+        </author>
+        <reference></reference>
+    </citation>
+</documentation>
+
+

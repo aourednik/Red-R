@@ -1,0 +1,18 @@
+<package>
+    <Name>RedRcaret</Name>
+    <Author>Red-R Core Development Team</Author>
+    <RLibraries>ada, affy, caTools, class, e1071,, earth, elasticnet, ellipse, fas-tICA, foba, foreach, gam, GAMens, gbm, glmnet, gpls, grid, hda, HDclassif, ipred, kernlab, klaR, lars, LogicForest, logicFS, LogicReg, MASS, mboost, mda, mgcv, mlbench, neu-ralnet, nnet, nodeHarvest, pamr, partDSA, party, penalized, pls, proxy, quantregForest,randomForest, RANN, rda, relaxo, rocc, rpart, rrcov, RWeka, sda, SDDA, sparseLDA, spls, stepPlr, superpc, vbm, caret</RLibraries>
+    <Version>
+        <Number>1</Number>
+        <Stability>Still Experimental</Stability>
+        <Date>2010-10-05</Date>
+    </Version>
+    <License>GPL (>= 2.0)</License>
+    <Dependencies></Dependencies>
+    <Red-RVersion>Red-R-1.7</Red-RVersion>
+    <Summary>A blank package for development.</Summary>
+    <Description>Install this and rename if you want to make new widgets.</Description>
+    <menuTags>
+        
+    </menuTags>
+</package>

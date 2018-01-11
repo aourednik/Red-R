@@ -1,0 +1,37 @@
+<package>
+    <Name>base</Name>
+    <Author>Kyle R Covington kyle@red-r.org, Anup Parikh anup@red-r.org</Author>
+    <Version>
+        <Number>1.2</Number>
+        <Stability>Good</Stability>
+        <Date>2010-05-12</Date>
+    </Version>
+    <License>GPL (>= 2.0)</License>
+    <Dependencies></Dependencies>
+    <Red-RVersion>Red-R-1.7</Red-RVersion>
+    <Summary>Base widgets, signals, and templates.</Summary>
+    <Description>Base functionality of Red-R.  This functionality includes the base signal classes, base widgets, base gui widgets, common templates, etc.  This package can not be deleted, only upgraded.  Bases are considered stable within an official release, though bug fixes and updates may become available from time to time.</Description>
+    <menuTags>
+        <group name="Data Input">
+            <Description>Widgets for Importing data into redR</Description>
+        </group>
+        <group name="View Data">
+            <Description>Sets of widgets for looking at data</Description>
+        </group>
+        <group name="Data Manipulation">
+            <Description>Widgets for data manipulation</Description>
+        </group>
+        <group name="Data Classification">
+            <Description>Widgets that classify data</Description>
+        </group>
+        <group name="Subsetting">
+            <Description>Tools for subsetting tables</Description>
+        </group>
+        <group name="R">
+            <Description>Special Widgets for Interfacing with R</Description>
+        </group>
+        <group name="Prototypes">
+            <Description>Prototypes</Description>
+        </group>        
+    </menuTags>
+</package>

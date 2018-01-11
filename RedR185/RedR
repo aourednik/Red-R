@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo 'Starting RedR'
+# change for each new version of RedR
+cd ~/RedR/RedR185/canvas
+python red-RCanvas.pyw

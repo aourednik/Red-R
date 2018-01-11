@@ -1,0 +1,9 @@
+
+<html>
+<head>
+    <title>Pairwise T-Test</title>
+</head>
+<body>
+This widget performs pairwise t-tests on the supplied samples.  This is also effective at performing t-tests on two samples if supplied.  Data should be supplied in the form of a two columned table with one column representing values and the other the groupings.  Use of Melt DF and Column Selector may be helpful in transforming your data.
+</body>
+</html>

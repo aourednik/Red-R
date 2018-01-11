@@ -1,0 +1,56 @@
+<!-- 
+General Guidelines
+Do not alter the html code in this template. 
+You can add any html inside the existing tags, except: the <h2> tag. 
+
+-->
+<h1>List Selection</h1>
+<h2>Brief</h2>
+<p>View all the elements of a list and select one to send forward.</p>
+
+
+<h2>Details</h2> 
+<p>Some Red-R manipulations send RList objects through their send slots.  Lists are collections of other objects such as RVectors, RDataFrames, or even other RLists.  This widget simply shows the elements of your RList in it's 'List Data' Section.  Clicking on these sends just that section of the data through the appropriate slot in the List Selector's outputs.</p>
+
+<h2>Inputs</h2>
+<dl>
+    <dt>base:RList</dt>
+    <dd><!-- signal description --></dd>
+</dl>
+
+<h2>Outputs</h2>
+<!-- [REQUIRED] List all the widget output slots and their data type.-->
+<dl>
+    <dt>base:RDataFrame</dt>
+    <dd><!-- signal description --></dd>
+    <dt>base:RVector</dt>
+    <dd><!-- signal description --></dd>
+    <dt>base:RList</dt>
+    <dd><!-- signal description --></dd>
+    <dt>base:RMatrix</dt>
+    <dd><!-- signal description --></dd>
+    <dt>base:RVariable</dt>
+    <dd><!-- signal description --></dd>
+</dl>
+
+<h2>Parameters</h2>
+<dl>
+    <dt>List Data</dt>
+    <dd>will show a list of all elements in input list.</dd>
+    <dt>Commit on Selection</dt>
+    <dd>as soon as a element is selected send it forward.</dd>
+</dl>
+
+<h2>R Functions</h2>
+<ul>
+    <li>base:list</li>
+</ul>
+
+<h2>Citation</h2>
+    <h4>Author</h4><!-- [REQUIRED] -->
+    Red-R Development Team (http://www.red-r.org)
+    <h4>Contact</h4> <!-- [REQUIRED] -->
+    Red-R Development Team (http://www.red-r.org)
+    <h4>References</h4> <!-- [OPTIONAL] -->   
+    http://www.red-r.org
+    

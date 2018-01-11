@@ -1,0 +1,14 @@
+#!/bin/bash
+
+echo "The script is using basename 'basename $0', dirname 'dirname $0'"
+# move the files from the current dir to the install home dir
+mkdir ~/RedR/
+# move the files to the dir
+DIR="$(cd "$(dirname "$0")" && pwd)"
+mv $DIR ~/RedR/RedR185
+
+# copy the shell script to the usr dir
+sudo cp ~/RedR/RedR185/RedR /usr/bin/RedR
+sudo chmod +x /usr/bin/RedR
+sudo cp ~/RedR/RedR185/RedR /usr/bin/RedR185
+sudo chmod +x /usr/bin/RedR185

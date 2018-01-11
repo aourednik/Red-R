@@ -1,0 +1,44 @@
+<h1>scale(base) R Documentation</h1> 
+
+Scaling and Centering of Matrix-like Objects
+Description
+scale is generic function whose default method centers and/or scales the columns of a numeric matrix. 
+
+Usage
+scale(x, center = TRUE, scale = TRUE)
+
+Arguments
+x a numeric matrix(like object). 
+center either a logical value or a numeric vector of length equal to the number of columns of x. 
+scale either a logical value or a numeric vector of length equal to the number of columns of x. 
+
+Details
+The value of center determines how column centering is performed. If center is a numeric vector with length equal to the number of columns of x, then each column of x has the corresponding value from center subtracted from it. If center is TRUE then centering is done by subtracting the column means (omitting NAs) of x from their corresponding columns, and if center is FALSE, no centering is done. 
+
+The value of scale determines how column scaling is performed (after centering). If scale is a numeric vector with length equal to the number of columns of x, then each column of x is divided by the corresponding value from scale. If scale is TRUE then scaling is done by dividing the (centered) columns of x by their root-mean-square, and if scale is FALSE, no scaling is done. 
+
+The root-mean-square for a column is obtained by computing the square-root of the sum-of-squares of the non-missing values in the column divided by the number of non-missing values minus one. 
+
+Value
+For scale.default, the centered, scaled matrix. The numeric centering and scalings used (if any) are returned as attributes "scaled:center" and "scaled:scale"
+
+References
+Becker, R. A., Chambers, J. M. and Wilks, A. R. (1988) The New S Language. Wadsworth & Brooks/Cole. 
+
+See Also
+sweep which allows centering (and scaling) with arbitrary statistics. 
+
+For working with the scale of a plot, see par. 
+
+Examples
+require(stats)
+x <- matrix(1:10, ncol=2)
+(centered.x <- scale(x, scale=FALSE))
+cov(centered.scaled.x <- scale(x))# all 1
+
+
+--------------------------------------------------------------------------------
+
+[Package base version 2.9.1 Index]
+
+<h2>Widget Author Kyle R Covington kyle@red-r.org</h2>

@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1148/trunk/libraries/base/widgets
+END
+rank.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/rank.py
+END
+dummy.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/dummy.py
+END
+RVarSeparator.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/RVarSeparator.py
+END
+dataEntry.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/dataEntry.py
+END
+RedRcbind.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/RedRcbind.py
+END
+mathWidget.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/mathWidget.py
+END
+RedRstrsplit.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/RedRstrsplit.py
+END
+widgetMaker.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/widgetMaker.py
+END
+t.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/t.py
+END
+rowcolPicker.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/rowcolPicker.py
+END
+RedReigen.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/RedReigen.py
+END
+Melt_DF.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/Melt_DF.py
+END
+score.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/score.py
+END
+readFile.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1148/trunk/libraries/base/widgets/readFile.py
+END
+RedRsave.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/RedRsave.py
+END
+ListSelector.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/ListSelector.py
+END
+rowFilter.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/rowFilter.py
+END
+colMatcher.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/colMatcher.py
+END
+nameProtector.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/nameProtector.py
+END
+subsetSummary.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/subsetSummary.py
+END
+RedRstrptime.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/RedRstrptime.py
+END
+RLoader.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/RLoader.py
+END
+notes.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1102/trunk/libraries/base/widgets/notes.py
+END
+rownames.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/rownames.py
+END
+summary.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/summary.py
+END
+setOperations.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/setOperations.py
+END
+percentileClassifier.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/percentileClassifier.py
+END
+intersect.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/intersect.py
+END
+RDataTable.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1148/trunk/libraries/base/widgets/RDataTable.py
+END
+RedRtable.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/RedRtable.py
+END
+RedRscale.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/RedRscale.py
+END
+subset.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/subset.py
+END
+RedRrbind.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/RedRrbind.py
+END
+rExecutor.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1145/trunk/libraries/base/widgets/rExecutor.py
+END
+mergeR.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/mergeR.py
+END
+rViewer.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/rViewer.py
+END
+apply.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1146/trunk/libraries/base/widgets/apply.py
+END
+redRSavePoint.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/redRSavePoint.py
+END
+RedRdata.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/RedRdata.py
+END
+na_omit.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/na_omit.py
+END
+sort.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1144/trunk/libraries/base/widgets/sort.py
+END

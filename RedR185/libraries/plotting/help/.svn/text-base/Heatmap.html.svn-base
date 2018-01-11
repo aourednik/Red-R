@@ -1,0 +1,9 @@
+
+<html>
+<head>
+    <title>Heatmap</title>
+</head>
+<body>
+<strong>Introduction</strong><br><br>Makes heatmaps of data.  This data should be in the form of a data table and should contain only numeric data, no text.  Thought heatmap was designed to work with the Bioconductor package it is able to show any numeric data as a heatmap.<br><br><strong>Details</strong><br><br>This widget has a block on it's auto-plotting functionality that prevents plotting of data larger than 500 rows.  This can be disabled by checking the 'Plot on Connect' button, but large amounts of data may take quite a while to plot depending on your system.<br><br>If your data contains a set of classifiers these can be added to your data by selecting the 'Show Classes' button.<br><br>To identify samples in the arms of the heatmap dendrogram click the 'Identify' button.  This will open a plot window where classifications can be made.  This sends data forward as a List which can be parsed with the List Selector widget.
+</body>
+</html>

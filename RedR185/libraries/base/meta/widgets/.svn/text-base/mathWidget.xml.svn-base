@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../help.xsl"?>
+<documentation>
+    <name>Math</name>
+    <icon>default.png</icon>
+    <tags> 
+        <tag>Data Manipulation</tag> 
+    </tags>
+    <screenshots></screenshots>
+    <summary>Perform basic math operations on columns of data.</summary>
+    <details><p>Perform simple math transformation of data one column at at time.</p></details>
+    <relatedWidgets>
+        <inputWidget><!-- <package>:<widget> ie. base:apply, plotting:heatmap --></inputWidget>
+        <outputWidget><!-- <package>:<widget> ie. base:apply, plotting:heatmap --></outputWidget>
+    </relatedWidgets>
+    <signals>
+    <!-- [REQUIRED] List all the widget input output slots and their data type.-->
+        <input>
+            <signalClass>base:RDataFrame</signalClass>
+            <description></description>
+        </input>
+        <output>
+            <signalClass>base:RDataFrame</signalClass>
+            <description></description>
+        </output>
+    </signals>
+    <GUIElements>
+        <!-- [REQUIRED] A list of the parameters and how to use them.-->
+        <parameter>
+            <name>Math Box</name>
+            <description>Lists the different math operations. Clicking one will bring up a pop-up window to specify the column to apply to operation to.</description>
+        </parameter>
+        <parameter>
+            <name>Table View</name>
+            <description>View the current data and any new columns created by applying an operation.</description>
+        </parameter>
+    </GUIElements>
+    <RFunctions>
+    <!-- [REQUIRED] R functions used in this widget.-->
+        <function>base:log2</function>
+        <function>base:match</function>
+        <function>base:as.numeric</function>
+        <function>base:as.character</function>
+        <function>base:exp</function>
+    </RFunctions>
+    <citation>
+    <!-- [REQUIRED] -->
+        <author>
+            <name>Red-R Core Team</name>
+            <contact>http://www.red-r.org/contact</contact>
+        </author>
+        <reference>http://www.red-r.org</reference>
+    </citation>
+</documentation>

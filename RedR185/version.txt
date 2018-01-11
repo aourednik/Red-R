@@ -1,0 +1,5 @@
+!define DATE "2010.08.18"
+!define SVNVERSION "881"
+!define NAME "Red-R"
+!define REDRVERSION "1.85"
+!define TYPE "linux"

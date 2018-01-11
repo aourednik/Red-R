@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1149/trunk/libraries/plotting/widgets
+END
+RedRpoints.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1102/trunk/libraries/plotting/widgets/RedRpoints.py
+END
+RedRplot.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1102/trunk/libraries/plotting/widgets/RedRplot.py
+END
+rug.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1102/trunk/libraries/plotting/widgets/rug.py
+END
+scatter_smooth.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1102/trunk/libraries/plotting/widgets/scatter_smooth.py
+END
+hist.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1102/trunk/libraries/plotting/widgets/hist.py
+END
+dotchart.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1102/trunk/libraries/plotting/widgets/dotchart.py
+END
+sizeplot.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1102/trunk/libraries/plotting/widgets/sizeplot.py
+END
+arrows.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1102/trunk/libraries/plotting/widgets/arrows.py
+END
+plot.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1149/trunk/libraries/plotting/widgets/plot.py
+END
+RedRplot_mvr.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1102/trunk/libraries/plotting/widgets/RedRplot_mvr.py
+END
+Heatmap.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1102/trunk/libraries/plotting/widgets/Heatmap.py
+END
+RedRbarplot.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1146/trunk/libraries/plotting/widgets/RedRbarplot.py
+END
+RedRScatterplot.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1102/trunk/libraries/plotting/widgets/RedRScatterplot.py
+END
+RedRcorrplot.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1102/trunk/libraries/plotting/widgets/RedRcorrplot.py
+END
+RedRplot_mvrVal.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1102/trunk/libraries/plotting/widgets/RedRplot_mvrVal.py
+END
+image.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1102/trunk/libraries/plotting/widgets/image.py
+END
+bumpchart.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1102/trunk/libraries/plotting/widgets/bumpchart.py
+END
+inspectR.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1102/trunk/libraries/plotting/widgets/inspectR.py
+END
+RedRmosaicplot.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1102/trunk/libraries/plotting/widgets/RedRmosaicplot.py
+END
+boxplot.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1102/trunk/libraries/plotting/widgets/boxplot.py
+END

@@ -1,0 +1,39 @@
+<h1>Data Entry</h1>
+<h2>Brief</h2>
+<p>A table input data entry into a data.frame.</p>
+
+<h2>Details</h2> 
+<p>Similar to Excel, you can enter data into a table. A data.frame is created in R on submit and sent forward.</p>
+
+<h2>Parameters</h2>
+<dl>
+    <dt>Data Table</dt>
+    <dd>input data as needed.</dd>
+    <dt>Add column</dt>
+    <dd>add additional columns of data input. On click requires input of column name.</dd>
+</dl>
+
+<h2>Inputs</h2>
+<dl>
+    <dt>None</dt>
+    <dd><!-- signal description --></dd>
+</dl>
+
+<h2>Outputs</h2>
+<dl>
+    <dt>base:RDataFrame</dt>
+    <dd><!-- signal description --></dd>
+</dl>
+
+<h2>R Functions</h2>
+<ul>
+    <li>base:data.frame</li>
+</ul>
+
+<h2>Citation</h2>
+    <h4>Author</h4><!-- [REQUIRED] -->
+    Red-R Development Team (http://www.red-r.org)
+    <h4>Contact</h4> <!-- [REQUIRED] -->
+    Red-R Development Team (http://www.red-r.org)
+    <h4>References</h4> <!-- [OPTIONAL] -->   
+    http://www.red-r.org

@@ -1,0 +1,28 @@
+<package>
+    <Name>stats</Name>
+    <Author>Kyle R Covington kyle@red-r.org, Anup Parikh anup@red-r.org</Author>
+    <Version>
+        <Number>1.1</Number>
+        <Stability>Good</Stability>
+        <Date>2010-08-17</Date>
+    </Version>
+    <License>GPL (>= 2.0)</License>
+    <Dependencies></Dependencies>
+    <Red-RVersion>Red-R-1.7</Red-RVersion>
+    <Summary>Base statistical widgets and signals.  </Summary>
+    <Description>A collection of basic statiscical widgets.  These allow for basic statistical tests such as t.test and anova.  May also include some higher order statistical functions that are deemed to be of "General Use" such that most users will find them useful or at least interesting.</Description>
+    <menuTags>
+        <group name="Stats">
+            <Description>Statistics</Description>
+            <group name="Parametric">
+                <Description>Parametric Statistics</Description>
+            </group>
+            <group name="Non Parametric">
+                <Description>Non-Parametric Statistics</Description>
+            </group>
+            <group name = 'Advanced Stats'>
+                <Description>Advanced Statistical Tools</Description>
+            </group>
+        </group>      
+    </menuTags>
+</package>

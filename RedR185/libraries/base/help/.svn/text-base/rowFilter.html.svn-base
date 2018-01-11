@@ -1,0 +1,40 @@
+<h1>Row Filter</h1>
+<h2>Brief</h2>
+<p>Filter data by column criteria.</p>
+<h2>Details</h2> 
+<p>Click on the column headers to bring up a menu for filtering data.<br>
+Depending on the column type (numeric, string, factor) a different menu is presented. You can filter one mutliple columns at a time. Columns that have been filtered will show a different icon in column header. <br>
+To remove filtering click on the column header again and click Clear filtering</p>
+
+
+<h2>Parameters</h2>
+<p>
+<ul>
+<li>Each column header is a button that will bring up the filter menu for that column.</li>
+<li>Resize Column: Will resize all the columns to fit the lenght of the data in that column</li>
+<li>Plus and Minus buttons: will increase or decrease the column width.</li>
+<li>Summit button: Will create a new data set of filtered data and send forward</li>
+<li>Commit on Filter: If checked as soon as filter on a column is set or updated the filtered data set will be sent forward</li>
+</p>
+
+<h2>R Functions</h2>
+<!-- [REQUIRED] R functions used in this widget.-->
+<ul>
+    <li>base:data.frame</li>
+</ul>
+<h2>Connectivity</h2>
+    <h4>Works Well With</h4>
+    <p><!-- [OPTIONAL] a list of widgets with references to their help files of widgets that might be useful when used with this widget--></p>
+    <h4>See Also</h4>
+    <p><!-- [OPTIONAL] a list of other widgets which either do similar things as this widget or where more help might be found--></p>
+    
+<h2>Templates</h2>
+<p><!-- [OPTIONAL] A list of templates which include this widget, might not be all inclusive but should be at least those included in the package--></p>
+
+<h2>Citation</h2>
+    <h4>Author</h4><!-- [REQUIRED] -->
+    Red-R Development Team (http://www.red-r.org)
+    <h4>Contact</h4> <!-- [REQUIRED] -->
+    Red-R Development Team (http://www.red-r.org)
+    <h4>References</h4> <!-- [OPTIONAL] -->   
+    http://www.red-r.org

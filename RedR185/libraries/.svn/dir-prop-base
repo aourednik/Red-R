@@ -1,0 +1,36 @@
+K 10
+svn:ignore
+V 235
+*.RData
+*.pyc
+NeuralNet
+ROCCurves
+RedRBiopython
+RedRLME4
+RedRggplot2
+RedRmatplotlib
+affy
+blank
+blankCopy
+dir_conflicts.prej
+doseResponse
+maptools
+pamr
+pls
+rsqlitedataframe
+strawberryPerl
+survProf
+survival
+urllib2_file.pyc
+imageLibrary
+
+K 13
+svn:mergeinfo
+V 193
+/branch1-75/libraries:869-892
+/branches/Version1.7/libraries:826-830
+/branches/Version1.80/libraries:972-991,998,1002,1040-1044
+/mtv/libraries:1046-1101
+/reports/libraries:1052-1101
+/trunk:1062
+END

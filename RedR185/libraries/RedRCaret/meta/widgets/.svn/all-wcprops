@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1119/trunk/libraries/RedRCaret/meta/widgets
+END
+RedRpreProcess.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1119/trunk/libraries/RedRCaret/meta/widgets/RedRpreProcess.xml
+END
+RedRcreateDataPartition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1119/trunk/libraries/RedRCaret/meta/widgets/RedRcreateDataPartition.xml
+END
+RedRpredict.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1119/trunk/libraries/RedRCaret/meta/widgets/RedRpredict.xml
+END
+RedRtrain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1119/trunk/libraries/RedRCaret/meta/widgets/RedRtrain.xml
+END
+RedRnearZeroVar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1119/trunk/libraries/RedRCaret/meta/widgets/RedRnearZeroVar.xml
+END
+RedRfindCorrelation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1119/trunk/libraries/RedRCaret/meta/widgets/RedRfindCorrelation.xml
+END

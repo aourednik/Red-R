@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1102/trunk/libraries/RedRCaret/widgets
+END
+RedRtrain.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1102/trunk/libraries/RedRCaret/widgets/RedRtrain.py
+END
+RedRnearZeroVar.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1102/trunk/libraries/RedRCaret/widgets/RedRnearZeroVar.py
+END
+RedRfindCorrelation.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1102/trunk/libraries/RedRCaret/widgets/RedRfindCorrelation.py
+END
+RedRpreProcess.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1102/trunk/libraries/RedRCaret/widgets/RedRpreProcess.py
+END
+RedRcreateDataPartition.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1102/trunk/libraries/RedRCaret/widgets/RedRcreateDataPartition.py
+END
+RedRpredict.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1102/trunk/libraries/RedRCaret/widgets/RedRpredict.py
+END

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../help.xsl"?>
+<documentation>
+    <name>ConSig</name>
+    <icon>Default.png</icon>
+    <tags> 
+        <tag>Data Manipulation</tag> 
+    </tags>
+    <summary>Generates a set of ConSig Scores from a given gene list.  Will also accept a connection to a list of reference genes and a set of disriptors of genes.  The requirement of the discriptor is that it contain a set of concepts and geneID's that match the geneID's that are in the reference list.  Other data from the concepts map is appended to the end of the final table of scores.</summary>
+    <details>Generates a set of ConSig Scores from a given gene list.  Will also accept a connection to a list of reference genes and a set of disriptors of genes.  The requirement of the discriptor is that it contain a set of concepts and geneID's that match the geneID's that are in the reference list.  Other data from the concepts map is appended to the end of the final table of scores.</details>
+    <relatedWidgets>
+        <inputWidget><!-- <package>:<widget> ie. base:apply, plotting:heatmap --></inputWidget>
+        <outputWidget><!-- <package>:<widget> ie. base:apply, plotting:heatmap --></outputWidget>
+    </relatedWidgets>
+    <signals>
+    <!-- [REQUIRED] List all the widget input output slots and their data type.-->
+    </signals>
+    <GUIElements>
+        <!-- [REQUIRED] A list of the parameters and how to use them.-->
+    </GUIElements>
+    <RFunctions>
+    <!-- [REQUIRED] R functions used in this widget.-->
+    </RFunctions>
+    <citation>
+    <!-- [REQUIRED] -->
+        <author>
+            <name>Red-R Core Team</name>
+            <contact>http://www.red-r.org/contact</contact>
+        </author>
+        <reference>http://www.red-r.org</reference>
+    </citation>
+</documentation>

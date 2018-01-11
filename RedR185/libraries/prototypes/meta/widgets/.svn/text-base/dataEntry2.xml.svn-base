@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../help.xsl"?>
+<documentation>
+    <name>Data Entry2</name>
+    <icon>readfile.png</icon>
+    <tags> 
+        <tag>Prototypes</tag> 
+    </tags>
+    <summary>A table input data entry into a data.frame.</summary>
+    <details>A table input data entry into a data.frame.</details>
+    <relatedWidgets>
+        <inputWidget><!-- <package>:<widget> ie. base:apply, plotting:heatmap --></inputWidget>
+        <outputWidget><!-- <package>:<widget> ie. base:apply, plotting:heatmap --></outputWidget>
+    </relatedWidgets>
+    <signals>
+    <!-- [REQUIRED] List all the widget input output slots and their data type.-->
+    </signals>
+    <GUIElements>
+        <!-- [REQUIRED] A list of the parameters and how to use them.-->
+    </GUIElements>
+    <RFunctions>
+    <!-- [REQUIRED] R functions used in this widget.-->
+    </RFunctions>
+    <citation>
+    <!-- [REQUIRED] -->
+        <author>
+            <name>Red-R Core Team</name>
+            <contact>http://www.red-r.org/contact</contact>
+        </author>
+        <reference>http://www.red-r.org</reference>
+    </citation>
+</documentation>

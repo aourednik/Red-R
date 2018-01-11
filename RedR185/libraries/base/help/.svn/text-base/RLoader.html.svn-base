@@ -1,0 +1,9 @@
+
+<html>
+<head>
+    <title>Load R Session</title>
+</head>
+<body>
+Loads a previously saved Rdata session and allows the user to connect to a separator to send previously saved variables.  Should be used in conjunction with the R variable separator.
+</body>
+</html>

@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/1149/trunk/canvas
+END
+globalData.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1143/trunk/canvas/globalData.py
+END
+OWGUI.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1144/trunk/canvas/OWGUI.py
+END
+red-RCanvas.pyw
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1146/trunk/canvas/red-RCanvas.pyw
+END
+signals.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1143/trunk/canvas/signals.py
+END
+orngView.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1146/trunk/canvas/orngView.py
+END
+redRInitWizard.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1143/trunk/canvas/redRInitWizard.py
+END
+orngDlgs_prel.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1143/trunk/canvas/orngDlgs_prel.py
+END
+redRGUI.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1143/trunk/canvas/redRGUI.py
+END
+redRPackageManager.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1144/trunk/canvas/redRPackageManager.py
+END
+OWColorPalette.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1144/trunk/canvas/OWColorPalette.py
+END
+redRWidgetsTree.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1144/trunk/canvas/redRWidgetsTree.py
+END
+redRObjects.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1147/trunk/canvas/redRObjects.py
+END
+lorngRegistry.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1143/trunk/canvas/lorngRegistry.py
+END
+lorngSignalManager.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1143/trunk/canvas/lorngSignalManager.py
+END
+redRStyle.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1114/trunk/canvas/redRStyle.py
+END
+orngDoc2.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1143/trunk/canvas/orngDoc2.py
+END
+orngDoc_prel.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1143/trunk/canvas/orngDoc_prel.py
+END
+orngHelp.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1143/trunk/canvas/orngHelp.py
+END
+orngDlgs.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1147/trunk/canvas/orngDlgs.py
+END
+OWReport.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1143/trunk/canvas/OWReport.py
+END
+redRSignalManager.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1144/trunk/canvas/redRSignalManager.py
+END
+orngCanvasItems_prel.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1143/trunk/canvas/orngCanvasItems_prel.py
+END
+widgetSession.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1146/trunk/canvas/widgetSession.py
+END
+OWGraphTools.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1143/trunk/canvas/OWGraphTools.py
+END
+OrderedDict.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1141/trunk/canvas/OrderedDict.py
+END
+redRUpdateManager.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1143/trunk/canvas/redRUpdateManager.py
+END
+lorngTabs.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1143/trunk/canvas/lorngTabs.py
+END
+orngDoc.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1146/trunk/canvas/orngDoc.py
+END
+redRi18n.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1145/trunk/canvas/redRi18n.py
+END
+redREnviron.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1145/trunk/canvas/redREnviron.py
+END
+orngSignalManager.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1143/trunk/canvas/orngSignalManager.py
+END
+orngRegistry.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1146/trunk/canvas/orngRegistry.py
+END
+redRLog.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1143/trunk/canvas/redRLog.py
+END
+orngCanvasItems.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1149/trunk/canvas/orngCanvasItems.py
+END
+widgetSignals.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1143/trunk/canvas/widgetSignals.py
+END
+redRWidgetGUI.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1144/trunk/canvas/redRWidgetGUI.py
+END
+RSession.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1146/trunk/canvas/RSession.py
+END
+SQLiteSession.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1143/trunk/canvas/SQLiteSession.py
+END
+redRSaveLoad.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1144/trunk/canvas/redRSaveLoad.py
+END
+redRCanvasToolbar.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1146/trunk/canvas/redRCanvasToolbar.py
+END
+redRReports.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1144/trunk/canvas/redRReports.py
+END
+lorngView.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1143/trunk/canvas/lorngView.py
+END
+redROutput.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1144/trunk/canvas/redROutput.py
+END
+redRHistory.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1144/trunk/canvas/redRHistory.py
+END
+orngTabs.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1144/trunk/canvas/orngTabs.py
+END
+OWRpy.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1144/trunk/canvas/OWRpy.py
+END
+redRExceptionHandling.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1143/trunk/canvas/redRExceptionHandling.py
+END
+repGen.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1143/trunk/canvas/repGen.py
+END
+orngHistory.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1144/trunk/canvas/orngHistory.py
+END
+OWGUIEx.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1144/trunk/canvas/OWGUIEx.py
+END

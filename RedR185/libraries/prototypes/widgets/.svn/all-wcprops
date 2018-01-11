@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1149/trunk/libraries/prototypes/widgets
+END
+firstWidget.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1102/trunk/libraries/prototypes/widgets/firstWidget.py
+END
+RedRcomp.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1103/trunk/libraries/prototypes/widgets/RedRcomp.py
+END
+dataEntry2.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1111/trunk/libraries/prototypes/widgets/dataEntry2.py
+END
+SandBox.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1102/trunk/libraries/prototypes/widgets/SandBox.py
+END
+aplot.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1149/trunk/libraries/prototypes/widgets/aplot.py
+END
+heatmap2.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1102/trunk/libraries/prototypes/widgets/heatmap2.py
+END
+ConSig.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1107/trunk/libraries/prototypes/widgets/ConSig.py
+END
+normalize_quantiles.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1104/trunk/libraries/prototypes/widgets/normalize_quantiles.py
+END

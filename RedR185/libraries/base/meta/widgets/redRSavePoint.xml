@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../help.xsl"?>
+<documentation>
+    <name>Red-R Save Point</name>
+    <icon>default.png</icon>
+    <tags> 
+        <tag>R</tag> 
+    </tags>
+    <screenshots></screenshots>
+    <summary></summary>
+    <details><p><!-- [REQUIRED] A detailed description of the widget and what it does--></p></details>
+    <relatedWidgets>
+        <inputWidget><!-- <package>:<widget> ie. base:apply, plotting:heatmap --></inputWidget>
+        <outputWidget><!-- <package>:<widget> ie. base:apply, plotting:heatmap --></outputWidget>
+    </relatedWidgets>
+    <signals>
+    <!-- [REQUIRED] List all the widget input output slots and their data type.-->
+        <input>
+            <signalClass><!-- base:RDataFrame --></signalClass>
+            <description><!-- signal description --></description>
+        </input>
+        <output>
+            <signalClass><!-- base:RDataFrame --></signalClass>
+            <description><!-- signal description --></description>
+        </output>
+    </signals>
+    <GUIElements>
+        <!-- [REQUIRED] A list of the parameters and how to use them.-->
+        <parameter>
+            <name><!--Name of the parameter in the widget GUI--></name>
+            <description><!--Description of the parameter--></description>
+        </parameter>
+    </GUIElements>
+    <RFunctions>
+    <!-- [REQUIRED] R functions used in this widget.-->
+        <function><!-- In format <package>:<function>. i.e. stats:cor, base:apply--></function>
+    </RFunctions>
+    <citation>
+    <!-- [REQUIRED] -->
+        <author>
+            <name>Red-R Core Team</name>
+            <contact>http://www.red-r.org/contact</contact>
+        </author>
+        <reference>http://www.red-r.org</reference>
+    </citation>
+</documentation>

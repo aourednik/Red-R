@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1137/trunk/libraries/base/signalClasses
+END
+StructuredDict.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1102/trunk/libraries/base/signalClasses/StructuredDict.py
+END
+UnstructuredDict.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1095/trunk/libraries/base/signalClasses/UnstructuredDict.py
+END
+RArbitraryList.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1102/trunk/libraries/base/signalClasses/RArbitraryList.py
+END
+RList.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1102/trunk/libraries/base/signalClasses/RList.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/852/trunk/libraries/base/signalClasses/__init__.py
+END
+RVector.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1102/trunk/libraries/base/signalClasses/RVector.py
+END
+RModelFit.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1126/trunk/libraries/base/signalClasses/RModelFit.py
+END
+RMatrix.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1137/trunk/libraries/base/signalClasses/RMatrix.py
+END
+REnvironment.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/839/trunk/libraries/base/signalClasses/REnvironment.py
+END
+RDataFrame.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1102/trunk/libraries/base/signalClasses/RDataFrame.py
+END
+RVariable.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1102/trunk/libraries/base/signalClasses/RVariable.py
+END

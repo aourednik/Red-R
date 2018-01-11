@@ -1,0 +1,9 @@
+
+<html>
+<head>
+    <title>Widget Maker</title>
+</head>
+<body>
+The widgetMaker widget is actually not a widget in the strictest sense of Red-R in that it has no inputs or outputs and does not process R data for the purposes of transforming it or displaying it. Instead widgetMaker makes code for widget generation based on an R function. This will accept any R function and make a best guess as to what the correct parameters for that part of the R function should be. The code generated is quite limited, linear, consists only of hooks into the underlying R function, and contains minimal logic to guide the user. However, widgetMaker generates functional python code which can provide the basis for further widget development.<br>If you want to add a new function to Red-R using widgetMaker is a good place to start. Once you have the base of the function in you can start to put in logic to handle the different types of data that your widget might receive and send.<br><br>Don't be surprised if there are a lot of errors when you use your widget for the first time.  WidgetMaker is a convenience widget for generating a skeleton of the widget code, not the end-all be-all of widget development.
+</body>
+</html>

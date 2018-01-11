@@ -1,0 +1,42 @@
+<!-- 
+General Guidelines
+Do not alter the html code in this template. 
+You can add any html inside the existing tags, except: the <h2> tag. 
+
+-->
+<h1><!-- [REQUIRED] title --></h1>
+<h2>Brief</h2>
+<p>Reshapes a data frame to one that may be more conducive to Red-R widgets.</p>
+
+<h2>Inputs</h2>
+<!-- [REQUIRED] List all the widget input slots and their data type.-->
+<ul>
+<li>base:RDataFrame</li>
+</ul>
+
+<h2>Outputs</h2>
+<!-- [REQUIRED] List all the widget output slots and their data type.-->
+<ul>
+<li>base:RDataFrame</li>
+</ul>
+
+<h2>Details</h2> 
+<p>Most Red-R widgets require data in the form of columns that contain either data or classes.  Data in this form is required for most statistical widgets.  Melt Data Frame uses the reshape package to convert a data frame from one that may be more conductive to data entry (values of groups in columns) to one with values of groups in one column and a grouping column.
+</p>
+
+
+<h2>Parameters</h2>
+<p><!-- [REQUIRED] A list of the parameters and how to use them.  There may be references to other help files for some specific qt widgets--></p>
+
+<h2>R Functions</h2>
+<ul>
+    <li>reshape:melt.data.frame</li>
+</ul>
+
+<h2>Citation</h2>
+    <h4>Author</h4><!-- [REQUIRED] -->
+    Red-R Development Team (http://www.red-r.org)
+    <h4>Contact</h4> <!-- [REQUIRED] -->
+    Red-R Development Team (http://www.red-r.org)
+    <h4>References</h4> <!-- [OPTIONAL] -->   
+    http://www.red-r.org

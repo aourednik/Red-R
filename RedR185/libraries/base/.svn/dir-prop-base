@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 6
+*.zip
+
+K 13
+svn:mergeinfo
+V 213
+/branch1-75/libraries/base:869-892
+/branches/Version1.7/libraries/base:826-830
+/branches/Version1.80/libraries/base:972-991,998,1002
+/mtv/libraries/base:1046-1101
+/reports/libraries/base:1052-1101
+/trunk/base:1062
+END

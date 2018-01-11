@@ -1,0 +1,23 @@
+<package>
+    <Name>RedRReshape</Name>
+    <Author>Kyle R Covington kyle@red-r.org</Author>
+    <RLibraries>reshape</RLibraries>
+    <Version>
+        <Number>1</Number>
+        <Stability>New</Stability>
+        <Date>2010-09-28</Date>
+    </Version>
+    <License>GPL (>= 2.0)</License>
+    <Dependencies></Dependencies>
+    <Red-RVersion>Red-R-1.8</Red-RVersion>
+    <Summary>A Red-R package based on the reshape package in R.  Allows reshaping of data and performing various summary statistics on data as a whole.</Summary>
+    <Description>Provides two widgets, Melt and Cast.  Melt is used to put data into a shape that may be more accepatable to Cast.  Cast pulls data from a sufficiently melted data frame and can aggregate it into smaller (or larger) tables.</Description>
+    <menuTags>
+        <group name="Data Manipulation">
+            <Description></Description>
+                <group name = "Reshape">
+                    <Description></Description>
+                </group>
+        </group>
+    </menuTags>
+</package>

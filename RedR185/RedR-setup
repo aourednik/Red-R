@@ -1,0 +1,20 @@
+#!/bin/bash
+
+#echo "The script is using basename 'basename $0', dirname 'dirname $0'"
+# move the files from the current dir to the install home dir
+mkdir ~/RedR/
+# move the files to the dir
+DIR="$(cd "$(dirname "$0")" && pwd)"
+mv $DIR ~/RedR/RedR185
+# get the required libraries
+sudo apt-get install python-qt4
+sudo apt-get install python-numpy
+sudo apt-get install python-docutils
+# copy the shell script to the usr dir
+sudo cp ~/RedR/RedR185/RedR /usr/bin/RedR
+sudo chmod +x /usr/bin/RedR
+sudo cp ~/RedR/RedR185/RedR /usr/bin/RedR185
+sudo chmod +x /usr/bin/RedR185
+
+echo "And finally you must have R installed for this to work!! Please go and get it!!!"
+

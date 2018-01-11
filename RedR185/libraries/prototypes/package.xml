@@ -1,0 +1,20 @@
+<package>
+    <Name>Prototypes</Name>
+    <Author>Red-R Team</Author>
+    <RLibraries></RLibraries>
+    <Version>
+        <Number>1</Number>
+        <Stability>Experimental</Stability>
+        <Date>2010-05-30</Date>
+    </Version>
+    <License>GPL (>= 2.0)</License>
+    <Dependencies></Dependencies>
+    <Red-RVersion>Red-R-1.7</Red-RVersion>
+    <Summary>New widgets in early testing</Summary>
+    <Description>Widgets that are being testing. User feedback is greatly appreciated. </Description>
+    <menuTags>
+        <group name="Prototypes">
+            <Description>Prototypes</Description>
+        </group>
+    </menuTags>
+</package>

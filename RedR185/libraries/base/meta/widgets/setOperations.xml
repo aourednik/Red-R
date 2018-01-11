@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../help.xsl"?>
+<documentation>
+    <name>Set Operations</name>
+    <icon>datatable.png</icon>
+    <tags> 
+        <tag>Data Manipulation</tag> 
+    </tags>
+    <screenshots></screenshots>
+    <summary>Perform base set operations:union, intersect, difference, and equality</summary>
+    <details><p>Perform base set operations:union, intersect, difference, and equality.<br />
+Each of union, intersect, setdiff and setequal will discard any duplicated values in the arguments. 
+</p></details>
+    <relatedWidgets>
+        <inputWidget><!-- <package>:<widget> ie. base:apply, plotting:heatmap --></inputWidget>
+        <outputWidget><!-- <package>:<widget> ie. base:apply, plotting:heatmap --></outputWidget>
+    </relatedWidgets>
+    <signals>
+    <!-- [REQUIRED] List all the widget input output slots and their data type.-->
+        <input>
+            <signalClass>base:RDataFrame</signalClass>
+            <description><!-- signal description --></description>
+        </input>
+        <output>
+            <signalClass>base:RDataFrame</signalClass>
+            <description><!-- signal description --></description>
+        </output>
+    </signals>
+    <GUIElements>
+        <!-- [REQUIRED] A list of the parameters and how to use them.-->
+        <parameter>
+            <name>Dataset A/B</name>
+            <description>Each listbox shows the column names from the connected data.frame.</description>
+        </parameter>
+        <parameter>
+            <name>Perform</name>
+            <description>select the set operation to perform.</description>
+        </parameter>
+        <parameter>
+            <name>Commit on Selection</name>
+            <description>as soon as a selection in either listbox is made perform the selected set operation.</description>
+        </parameter>
+    </GUIElements>
+    <RFunctions>
+    <!-- [REQUIRED] R functions used in this widget.-->
+        <function>base:union</function>
+        <function>base:intersect</function>
+        <function>base:setdiff</function>
+        <function>base:setequal</function>
+    </RFunctions>
+    <citation>
+    <!-- [REQUIRED] -->
+        <author>
+            <name>Red-R Core Team</name>
+            <contact>http://www.red-r.org/contact</contact>
+        </author>
+        <reference>http://www.red-r.org</reference>
+    </citation>
+</documentation>

@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1148/trunk/libraries/base/qtWidgets
+END
+textEdit.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/textEdit.py
+END
+pyDataTable.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/pyDataTable.py
+END
+graphicsView.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/graphicsView.py
+END
+widgetBox.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/widgetBox.py
+END
+filterTable.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/filterTable.py
+END
+lineEdit.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/lineEdit.py
+END
+dialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/dialog.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/924/trunk/libraries/base/qtWidgets/__init__.py
+END
+separator.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/separator.py
+END
+treeWidget.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/treeWidget.py
+END
+groupBox.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/groupBox.py
+END
+zoomSelectToolbar.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/zoomSelectToolbar.py
+END
+RFormulaEntry.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/RFormulaEntry.py
+END
+Rtable.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/Rtable.py
+END
+button.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/button.py
+END
+radioButtons.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1148/trunk/libraries/base/qtWidgets/radioButtons.py
+END
+graphicsScene.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/graphicsScene.py
+END
+webViewBox.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/webViewBox.py
+END
+listBox.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1148/trunk/libraries/base/qtWidgets/listBox.py
+END
+SearchDialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/SearchDialog.py
+END
+checkBox.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1148/trunk/libraries/base/qtWidgets/checkBox.py
+END
+fileNamesComboBox.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/fileNamesComboBox.py
+END
+graphicsViewSimple.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1102/trunk/libraries/base/qtWidgets/graphicsViewSimple.py
+END
+splitter.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/splitter.py
+END
+comboBox.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1148/trunk/libraries/base/qtWidgets/comboBox.py
+END
+tabWidget.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/tabWidget.py
+END
+lineEditHint.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/lineEditHint.py
+END
+treeWidgetItem.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/treeWidgetItem.py
+END
+spinBox.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/spinBox.py
+END
+statusLabel.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/statusLabel.py
+END
+widgetLabel.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/widgetLabel.py
+END
+commitButton.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/commitButton.py
+END
+table.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/table.py
+END
+scrollArea.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1145/trunk/libraries/base/qtWidgets/scrollArea.py
+END

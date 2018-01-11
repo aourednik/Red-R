@@ -1,0 +1,18 @@
+<package>
+    <Name>blank</Name>
+    <Author>Kyle R Covington kyle@red-r.org</Author>
+    <RLibraries></RLibraries>
+    <Version>
+        <Number>1</Number>
+        <Stability>Good</Stability>
+        <Date>2010-05-12</Date>
+    </Version>
+    <License>GPL (>= 2.0)</License>
+    <Dependencies></Dependencies>
+    <Red-RVersion>Red-R-1.7</Red-RVersion>
+    <Summary>A blank package for development.</Summary>
+    <Description>Install this and rename if you want to make new widgets.</Description>
+    <menuTags>
+        
+    </menuTags>
+</package>

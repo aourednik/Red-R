@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1146/trunk/libraries/stats/widgets
+END
+RedRks_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1102/trunk/libraries/stats/widgets/RedRks_test.py
+END
+RedRisa.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1102/trunk/libraries/stats/widgets/RedRisa.py
+END
+spline.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1102/trunk/libraries/stats/widgets/spline.py
+END
+RedRfft.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1102/trunk/libraries/stats/widgets/RedRfft.py
+END
+anova_lm.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1120/trunk/libraries/stats/widgets/anova_lm.py
+END
+RedRfisher_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1102/trunk/libraries/stats/widgets/RedRfisher_test.py
+END
+RedRplsr.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1102/trunk/libraries/stats/widgets/RedRplsr.py
+END
+prcomp.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1104/trunk/libraries/stats/widgets/prcomp.py
+END
+distributions.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1146/trunk/libraries/stats/widgets/distributions.py
+END
+RedRattributes.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1102/trunk/libraries/stats/widgets/RedRattributes.py
+END
+RedRvar_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1102/trunk/libraries/stats/widgets/RedRvar_test.py
+END
+anova.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1120/trunk/libraries/stats/widgets/anova.py
+END
+wilcox_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1134/trunk/libraries/stats/widgets/wilcox_test.py
+END
+pairwise_t_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1102/trunk/libraries/stats/widgets/pairwise_t_test.py
+END
+lm.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1102/trunk/libraries/stats/widgets/lm.py
+END
+kruskal_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1102/trunk/libraries/stats/widgets/kruskal_test.py
+END
+RedRhclust.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1102/trunk/libraries/stats/widgets/RedRhclust.py
+END
+RedRt_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1102/trunk/libraries/stats/widgets/RedRt_test.py
+END
+RedRclusterboot.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1120/trunk/libraries/stats/widgets/RedRclusterboot.py
+END
+cor_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1102/trunk/libraries/stats/widgets/cor_test.py
+END
+cor.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1136/trunk/libraries/stats/widgets/cor.py
+END
+aov.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1102/trunk/libraries/stats/widgets/aov.py
+END

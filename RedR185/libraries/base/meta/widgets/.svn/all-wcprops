@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1149/trunk/libraries/base/meta/widgets
+END
+mergeR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/mergeR.xml
+END
+nameProtector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/nameProtector.xml
+END
+rViewer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/rViewer.xml
+END
+RedRstrptime.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/RedRstrptime.xml
+END
+apply.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/apply.xml
+END
+redRSavePoint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/redRSavePoint.xml
+END
+sort.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/sort.xml
+END
+notes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/notes.xml
+END
+RLoader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/RLoader.xml
+END
+dummy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/dummy.xml
+END
+rank.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/rank.xml
+END
+RVarSeparator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/RVarSeparator.xml
+END
+dataEntry.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/dataEntry.xml
+END
+mathWidget.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/mathWidget.xml
+END
+intersect.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/intersect.xml
+END
+RedRstrsplit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/RedRstrsplit.xml
+END
+widgetMaker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/widgetMaker.xml
+END
+rowcolPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/rowcolPicker.xml
+END
+t.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/t.xml
+END
+RedRtable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/RedRtable.xml
+END
+RedRscale.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/RedRscale.xml
+END
+readFile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/readFile.xml
+END
+score.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1149/trunk/libraries/base/meta/widgets/score.xml
+END
+RedRsave.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/RedRsave.xml
+END
+rowFilter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/rowFilter.xml
+END
+rExecutor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/rExecutor.xml
+END
+colMatcher.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/colMatcher.xml
+END
+subsetSummary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/subsetSummary.xml
+END
+na_omit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/na_omit.xml
+END
+RedRdata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/RedRdata.xml
+END
+rownames.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/rownames.xml
+END
+RedRcbind.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/RedRcbind.xml
+END
+summary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/summary.xml
+END
+percentileClassifier.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/percentileClassifier.xml
+END
+setOperations.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/setOperations.xml
+END
+RDataTable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/RDataTable.xml
+END
+RedReigen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/RedReigen.xml
+END
+subset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/subset.xml
+END
+Melt_DF.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/Melt_DF.xml
+END
+RedRrbind.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/RedRrbind.xml
+END
+ListSelector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1148/trunk/libraries/base/meta/widgets/ListSelector.xml
+END

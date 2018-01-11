@@ -1,0 +1,30 @@
+<html>
+<head>
+</head>
+<body>
+<summary>
+Calculate the Variance, Covariance or Correlation.
+</summary>
+
+<h3>Tests</h3>
+<p>
+Variance, Covariance  and Correlation compute the variance of x and the Covariance or Correlation of x and y if these are vectors. If x and y are matrices then the Covariances (or Correlations) between the columns of x and the columns of y are computed. 
+</p>
+<p>For Covariance and Correlation one must either give a matrix or data frame for x or give both x and y. 
+</p>
+<h3>Methods</h3>
+<p>
+For Correlation(), if method is "kendall" or "spearman", Kendall's tau or Spearman's rho statistic is used to estimate a rank-based measure of association. These are more robust and have been recommended if the data do not necessarily come from a biVarianceiate normal distribution.
+</p>
+<p>
+For Covariance(), a non-Pearson method is unusual but available for the sake of completeness. Note that "spearman" basically computes Correlation(R(x), R(y)) (or Covariance(.,.)) where R(u) := rank(u, na.last="keep"). In the case of missing values, the ranks are calculated depending on the value of use, either based on complete observations, or based on pairwise completeness with reranking for each pair. 
+</p>
+
+
+<h3>Handling Missing Values</h3>
+<p>If use is "everything", NAs will propagate conceptually, i.e., a resulting value will be NA whenever one of its contributing observations is NA.
+</p>
+<p>
+If use is "all.obs", then the presence of missing observations will produce an error. If use is "complete.obs" then missing values are handled by casewise deletion (and if there are no complete cases, that gives an error). 
+"na.or.complete" is the same unless there are no complete cases, that gives NA. Finally, if use has the value "pairwise.complete.obs" then the Correlation or Covariance between each pair of variables is computed using all complete pairs of observations on those variables. This can result in Covariance or Correlation matrices which are not positive semi-definite, as well as NA entries if there are no complete pairs for that pair of variables. For Covariance and Variance, "pairwise.complete.obs" only works with the "pearson" method. Note that (the equivalent of) Variance(double(0), use=*) gives NA for use = "everything" and "na.or.complete", and gives an error in the other cases. 
+</p>

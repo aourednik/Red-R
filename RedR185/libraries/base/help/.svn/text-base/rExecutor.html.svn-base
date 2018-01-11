@@ -1,0 +1,9 @@
+
+<html>
+<head>
+    <title>R Executor</title>
+</head>
+<body>
+The rExecutor widget is perhaps the simplest yet most versatile widget in the Red-R package. This widget is also the most dificult to master. rExecutor provides a direct interface into the R session. Thus, with the commander you are able to call any variable in the R session and to manipulate it with any R command. Each rExecutor widget can recieve inputs from one widget for the purposes of displaying that widgets data object (the element in 'data' of the widgets output channel). This channel need not be connected as rExecutor can call any variable in the R session regulardless of it's connection state. R outputs are displayed in a textbox and can be of any class type, even those not supported by Red-R data table widgets.<br><br>rExecutor can also send variables of any type to downstream orange widgets, though there is no guarantee that the downstream widget will be able to interpret the data. Be advised that most Red-R widgets are designed to accept objects of the data.frame class in R and it is encouraged that the user make every attempt to send data.frame objects when using the rExecutor to conform with Red-R standards.<br><br>Additional functionality may be built into this widget in the future to allow it to send objects of any type to those few widgets that require non 'data' objects in their input channels.
+</body>
+</html>

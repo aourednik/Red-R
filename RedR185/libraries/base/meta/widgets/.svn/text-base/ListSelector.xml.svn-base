@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../help.xsl"?>
+<documentation>
+    <name>List Selection</name>
+    <icon>default.png</icon>
+    <tags> 
+        <tag>Subsetting</tag> 
+    </tags>
+    <screenshots></screenshots>
+    <summary>View all the elements of a list and select one to send forward.</summary>
+    <details><p>Some Red-R manipulations send RList objects through their send slots.  Lists are collections of other objects such as RVectors, RDataFrames, or even other RLists.  This widget simply shows the elements of your RList in it's 'List Data' Section.  Clicking on these sends just that section of the data through the appropriate slot in the List Selector's outputs.</p></details>
+    <relatedWidgets>
+        <inputWidget><!-- <package>:<widget> ie. base:apply, plotting:heatmap --></inputWidget>
+        <outputWidget><!-- <package>:<widget> ie. base:apply, plotting:heatmap --></outputWidget>
+    </relatedWidgets>
+    <signals>
+    <!-- [REQUIRED] List all the widget input output slots and their data type.-->
+        <input>
+            <signalClass>base:RList</signalClass>
+            <description><!-- signal description --></description>
+        </input>
+        <output>
+            <signalClass>base:RDataFrame</signalClass>
+            <description><!-- signal description --></description>
+        </output>
+        <output>
+            <signalClass>base:RVector</signalClass>
+            <description><!-- signal description --></description>
+        </output>
+        <output>
+            <signalClass>base:RList</signalClass>
+            <description><!-- signal description --></description>
+        </output>
+        <output>
+            <signalClass>base:RMatrix</signalClass>
+            <description><!-- signal description --></description>
+        </output>
+        <output>
+            <signalClass>base:RVariable</signalClass>
+            <description><!-- signal description --></description>
+        </output>
+    </signals>
+    <GUIElements>
+        <!-- [REQUIRED] A list of the parameters and how to use them.-->
+        <parameter>
+            <name>List Data</name>
+            <description>will show a list of all elements in input list.</description>
+        </parameter>
+        <parameter>
+            <name>Commit on Selection</name>
+            <description>as soon as a element is selected send it forward.</description>
+        </parameter>
+    </GUIElements>
+    <RFunctions>
+    <!-- [REQUIRED] R functions used in this widget.-->
+        <function>base:list</function>
+    </RFunctions>
+    <citation>
+    <!-- [REQUIRED] -->
+        <author>
+            <name>Red-R Core Team</name>
+            <contact>http://www.red-r.org/contact</contact>
+        </author>
+        <reference>http://www.red-r.org</reference>
+    </citation>
+</documentation>
